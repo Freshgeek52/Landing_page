@@ -2,7 +2,7 @@
 This is a restaurant landing page
 
 ## Visit the site here:
-Visit site following:
+Visit site following: https://freshgeek52.github.io/Landing_page/
 
 ## Images source
 The images used for this landing page are picked in the following websites:
